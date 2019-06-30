@@ -1,2 +1,2 @@
-config/environment.#!/usr/bin/env ruby -wKU
-"sinatra/activerecord/rake"
+require './config/environment'.#!/usr/bin/env ruby -wKU
+require "sinatra/activerecord/rake"
